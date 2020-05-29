@@ -7,3 +7,5 @@ input_data_link : "https://bigdata-ir.com/%d8%af%db%8c%d8%aa%d8%a7%d8%b3%d8%aa-%
 
 
 sample output is pandas Dataframe that is stored in a pickle file for checking output of the model.
+
+note:copy "persian" to "nltk_data/corpora/stopwords" 
